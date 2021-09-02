@@ -29,6 +29,8 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+	/* The next 4 are for the abstract hiding */
+
 	label {
 		color: inherit;
 		border-bottom: solid 2px rgba(0, 113, 145, 0.75);
